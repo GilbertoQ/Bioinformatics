@@ -1,0 +1,13 @@
+Folder: Test_data
+
+Folder: Test_data/kpcb
+File: scpdb_receptor.mol2
+File: config.txt
+File: receptor.pdbqt
+
+Folder: Test_data/kpcb/vout
+File: decoy_num_8681_out.pdbqt
+File: active_num_0_out.pdbqt
+File: active_num_1_out.pdbqt
+File: decoy_num_8682_out.pdbqt
+

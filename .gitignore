@@ -1,0 +1,7 @@
+*.pdbqt
+*.log
+*.MOV
+*.mp4
+*.hdf5
+*.tar
+__pycache__/
